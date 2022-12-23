@@ -8,7 +8,7 @@ You can refer to the Pancakeswap SDK documentation [pancakeswap.finance](https:/
 
 To run the tests, follow these steps. You must have at least node v10 and [yarn](https://yarnpkg.com/) installed.
 
-First clone the repository:
+First clone the repository:a
 
 ```sh
 git clone git@github.com:corgidoge-official/corgiswap-sdk.git
